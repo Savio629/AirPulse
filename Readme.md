@@ -1,4 +1,4 @@
-# Air Quality Data Pipeline using Kafka, Spark, Prometheus & Grafana
+# AirPulse - Air Quality Data Pipeline using Kafka, Spark, Prometheus & Grafana
 This project demonstrates a real-time data processing pipeline using Kafka for data streaming, Spark for data consumption, and Prometheus & Grafana for monitoring and visualization.
 
 Directory Structure
